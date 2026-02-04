@@ -1,5 +1,5 @@
 package example;
-
+//Reverse Number
 public class Test2 {
     static void main(String[] args) {
         int n=52;
