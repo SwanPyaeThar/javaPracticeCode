@@ -1,6 +1,6 @@
 public class Example_3 {
     //Logical Bitwise
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int a = 2, b= 0;
         if(a==2 | a/b!=0){ //note divisor is zero,thus "java.lang.ArithemeticException" error
             System.out.println("a is 2 and a/b!=0");

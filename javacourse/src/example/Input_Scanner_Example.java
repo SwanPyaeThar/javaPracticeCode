@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Input_Scanner_Example {
 
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = 0 ;
         System.out.println("Enter an integer: ");

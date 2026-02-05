@@ -1,7 +1,7 @@
 package example;
 //Reverse Number
 public class Test2 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int n=52;
         int n1=052;
         int n2=0x52;

@@ -1,7 +1,7 @@
 package example;
 import java.util.Scanner;
 public class Reverse {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num,first_digit,second_digit,third_digit,fourth_digit,fifth_digit,reverse_num;
         System.out.println("Enter a five digits: ");

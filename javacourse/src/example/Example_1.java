@@ -2,7 +2,7 @@ package example;
 //digit တစ်လုံးချင်းစီခွဲမယ်
 //ပြီးရင်reversenumberတွက်မယ်။
 public class Example_1 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int n = 23456;
         int first_digit,second_digit,third_digit,fourth_digit,fifth_digit,reverse_number;
         first_digit=n/10000;
