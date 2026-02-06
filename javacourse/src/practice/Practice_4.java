@@ -40,6 +40,7 @@ public class Practice_4 {
         }else{
             System.out.println("and the Future day is Saturday");
         }
+        sc.close();
 
 
     }
