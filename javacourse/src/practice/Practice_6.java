@@ -39,6 +39,7 @@ public class Practice_6 {
         }else {
             System.out.println("Invalid Date");
         }
+        sc.close();
 
 
     }
