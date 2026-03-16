@@ -22,5 +22,6 @@ public class Practice_8 {
         }else {
             System.out.println("Circle2 does not overlap circle1");
         }
+        sc.close();
     }
 }

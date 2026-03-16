@@ -27,6 +27,6 @@ public class Practice_9 {
         }
         System.out.println(postion + "of salary is " + salary);
 
-
+        input.close();
     }
 }
