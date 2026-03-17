@@ -17,14 +17,14 @@ public class Example11 {
 
         }while(num <= 1);
 
-        while(div<=num){
-            if(num%div==0 && num==div){
-                System.out.println(num + " % " + div + " = " + num%div);
-                System.out.println(num + "is prime number");
-            }else{
-                System.out.println(num + "%" + div + " = " + num%div);
-            }
+        while(num%div != 0){
+              
             div++;
+        }
+        if (num == div){
+            System.out.println("Prime number is "+num);
+        }else {
+            System.out.println("Not Prime number is "+num);
         }
         sc.close();
     }
